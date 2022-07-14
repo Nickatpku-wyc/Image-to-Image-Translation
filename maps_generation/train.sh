@@ -1,0 +1,1 @@
+python3 train_pix2pix.py --name map_translation --gpu_ids 0 --dataset_mode map --batch_size 16 --n_epochs 100 --lr 0.0004 --norm batch --netG resnet_9blocks --netD n_layers --n_layers_D 2 --lambda_L1 200.0
