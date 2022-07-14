@@ -1,4 +1,4 @@
-### Assignment 2 -- Image-to-Image Translation
+### Image-to-Image Translation
 
 #### Introduction
 
